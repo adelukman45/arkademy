@@ -16,6 +16,8 @@ setelah itu buka web browser dan ketik localhost/phpmyadmin di address bar, lalu
 
 Nah untuk nomor enam bisa dilihat demo aplikasinya dengan klik link dibawah 
 
+https://github.com/adelukman45/arkademy/blob/master/arkademy/awal.jpg
 
+https://github.com/adelukman45/arkademy/blob/master/arkademy/edit.jpg
 
 ditampilannya untuk forn-end saya memakai bootstrap dan untuk back-end saya menggunakan php oop, dihalaman tersebut terdapat beberapa fungsi crud. fungsi crud berguna untuk menambahkan data orangnya dan untuk mengedit/menambah data untuk lebih jelasnya bisa dilihat di gambar ataupun difilenya langsung. 
