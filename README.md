@@ -14,3 +14,8 @@ lalu kita pindahkan folder arkademy ke direktory xampp. masuk ke xampp/htdocs/si
 import database:
 setelah itu buka web browser dan ketik localhost/phpmyadmin di address bar, lalu buat database dengan nama arkademy, lalu import databasenya yang tersimpan di folder arkademy tadi.
 
+Nah untuk nomor enam bisa dilihat demo aplikasinya dengan klik link dibawah 
+
+
+
+ditampilannya untuk forn-end saya memakai bootstrap dan untuk back-end saya menggunakan php oop, dihalaman tersebut terdapat beberapa fungsi crud. fungsi crud berguna untuk menambahkan data orangnya dan untuk mengedit/menambah data untuk lebih jelasnya bisa dilihat di gambar ataupun difilenya langsung. 
